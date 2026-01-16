@@ -50,3 +50,4 @@ tzdata==2025.3
 urllib3==2.6.3
 wcwidth==0.2.14
 xyzservices==2025.11.0
+plotly==6.5.1
